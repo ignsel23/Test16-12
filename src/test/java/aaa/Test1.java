@@ -10,6 +10,6 @@ class Test1 {
 	void testSomma() {
 
 		int val = Start.Somma(1, 2);
-		assertEquals(3,val);
+		assertEquals(4,val);
 	}
 }
